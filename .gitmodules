@@ -5,6 +5,9 @@
 [submodule "GLMsData"]
 	path = GLMsData
 	url = https://github.com/cran/GLMsData
+[submodule "SRMData"]
+	path = SRMData
+	url = https://github.com/peterkdunn/srmdata
 [submodule "tweedie"]
 	path = tweedie
 	url = https://github.com/peterkdunn/tweedie
